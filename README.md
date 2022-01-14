@@ -19,3 +19,7 @@ THEN I am again presented with current and future conditions for that city
 //**Mock-Up**//
 The following image shows the web application's appearance and functionality:
 ![](https://github.com/ElyCano/server_sideAPIs_Weather_Dashboard/blob/main/images/mockup.png)
+
+//**Link to deployed application**//
+
+![](https://elycano.github.io/server_sideAPIs_Weather_Dashboard/)
