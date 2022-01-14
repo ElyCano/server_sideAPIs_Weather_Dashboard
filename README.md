@@ -22,4 +22,4 @@ The following image shows the web application's appearance and functionality:
 
 //**Link to deployed application**//
 
-[Link](https://elycano.github.io/server_sideAPIs_Weather_Dashboard/)
+[Link to deployed application](https://elycano.github.io/server_sideAPIs_Weather_Dashboard/)
